@@ -1,7 +1,7 @@
 <h1 align="center">Hello, My name is Jefferson Perez Diaz</h1>
 
 
-- 🌱 I’m currently learning **SASS, ReactNative**
+- 🌱 I’m currently learning **Typescript, AWS**
 
 - 📫 How to reach me **djefferson545@gmail.com**
 
